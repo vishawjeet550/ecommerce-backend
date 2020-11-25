@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/core/css/card.css"],"names":[],"mappings":"AAAA,MACI,+BACJ","file":"main.afcf632a.chunk.css","sourcesContent":[".card{\r\n    box-shadow: grey 3px 3px 3px 3px;\r\n}"]}
